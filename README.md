@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .DATING one-word domains still available to buy.
 
-This dataset contains 4,598 .DATING one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,597 .DATING one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.DATING one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=dating-oneword-domains&utm_content=description.top) (4,597) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -25,7 +25,7 @@ If you want to search & filters the complete database of [.DATING one word domai
 | aaron.dating      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.dating  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.dating      | available | 43       | 2%     | 5      |           |         |         |
-| abandoned.dating  | available | 58       | 10%    | 9      |           |         |         |
+| abandoned.dating  | available | 58       | 7%     | 9      |           |         |         |
 | abashed.dating    | available | 60       | 2%     | 7      |           |         |         |
 | abasic.dating     | available | 54       | 2%     | 6      |           |         |         |
 | abatable.dating   | available | 54       | 1%     | 8      |           |         |         |
@@ -33,7 +33,7 @@ If you want to search & filters the complete database of [.DATING one word domai
 | abaxial.dating    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.dating   | available | 50       | 1%     | 8      |           |         |         |
 | abdicable.dating  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.dating  | premium   | 82       | 1%     | 9      |           |         |         |
+| abdominal.dating  | premium   | 82       | 5%     | 9      |           |         |         |
 | abdominous.dating | available | 56       | 1%     | 10     |           |         |         |
 | abducens.dating   | available | 54       | 1%     | 8      |           |         |         |
 | abducent.dating   | available | 68       | 1%     | 8      |           |         |         |
@@ -42,7 +42,7 @@ If you want to search & filters the complete database of [.DATING one word domai
 | aberdonian.dating | available | 68       | 1%     | 10     |           |         |         |
 | aberrant.dating   | available | 74       | 7%     | 8      |           |         |         |
 | abeyant.dating    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.dating  | available | 54       | 1%     | 9      |           |         |         |
+| abhorrent.dating  | available | 54       | 3%     | 9      |           |         |         |
 | abiding.dating    | premium   | 106      | 5%     | 7      |           |         |         |
 | abient.dating     | available | 54       | 1%     | 6      |           |         |         |
 | ability.dating    | available | 92       | 18%    | 7      |           |         |         |
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.DATING one word domai
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
