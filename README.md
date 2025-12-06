@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .DATING one-word domains still available to buy.
 
-This dataset contains 4,597 .DATING one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,598 .DATING one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.DATING one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=dating-oneword-domains&utm_content=description.top) (4,597) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.DATING one word domai
 
 | Domain            | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ----------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.dating        | available | 70       | 38%    | 3      |           |         |         |
+| aaa.dating        | premium   | 70       | 38%    | 3      |           |         |         |
 | aaron.dating      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.dating  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.dating      | available | 43       | 2%     | 5      |           |         |         |
