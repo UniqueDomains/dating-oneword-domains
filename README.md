@@ -1,10 +1,10 @@
-# Available .DATING One-Word Domains (9,347)
+# Available .DATING One-Word Domains (9,349)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C349%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C347%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C350%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C349%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -14,9 +14,9 @@ Daily-updated dataset of available and resale .dating one-word domains from Uniq
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,349 rows · **Live catalog:** 9,347 domains
+**Public extract:** 9,350 rows · **Live catalog:** 9,349 domains
 
-**Last updated:** 2026-04-11  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/dating`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .DATING one-word domai
 
 ### Files
 
-- `dating.csv` — public CSV extract (9,349 rows)
-- `dating.json` — public JSON extract (9,349 rows)
+- `dating.csv` — public CSV extract (9,350 rows)
+- `dating.json` — public JSON extract (9,350 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -64,25 +64,25 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| zero.dating     | available | $23.99    | $84.99        | 112            | 53     | 4      | name.com                                                  |
+| zero.dating     | available | $23.99    | $84.99        | 112            | 54     | 4      | name.com                                                  |
 | sweet.dating    | resell    | —         | —             | 72             | 99     | 5      | Porkbun LLC                                               |
 | power.dating    | premium   | $128.70   | $128.70       | 98             | 62     | 5      | namecheap                                                 |
 | design.dating   | available | $23.99    | $84.99        | 108            | 50     | 6      | name.com                                                  |
 | easy.dating     | resell    | —         | —             | 128            | 68     | 4      | NameCheap, Inc.                                           |
 | data.dating     | premium   | $1,040    | $1,040        | 70             | 56     | 4      | namecheap                                                 |
-| genius.dating   | available | $23.99    | $84.99        | 98             | 47     | 6      | name.com                                                  |
+| genius.dating   | available | $23.99    | $84.99        | 98             | 45     | 6      | name.com                                                  |
 | now.dating      | resell    | —         | —             | 78             | 66     | 3      | Sav.com, LLC                                              |
 | game.dating     | premium   | $123.75   | $123.75       | 120            | 51     | 4      | name.com                                                  |
-| wizard.dating   | available | $23.99    | $84.99        | 118            | 46     | 6      | name.com                                                  |
+| creator.dating  | available | $23.99    | $84.99        | 70             | 45     | 7      | name.com                                                  |
 | good.dating     | resell    | —         | —             | 82             | 55     | 4      | GoDaddy.com, LLC                                          |
 | air.dating      | premium   | $128.70   | $128.70       | 84             | 49     | 3      | namecheap                                                 |
-| health.dating   | available | $86.98    | —             | 92             | 45     | 6      | namecheap                                                 |
+| forge.dating    | available | $23.99    | $84.99        | 62             | 45     | 5      | name.com                                                  |
 | local.dating    | resell    | —         | —             | 102            | 54     | 5      | GoDaddy.com, LLC                                          |
 | security.dating | premium   | $128.70   | $128.70       | 70             | 49     | 8      | namecheap                                                 |
-| forge.dating    | available | $23.99    | $84.99        | 62             | 45     | 5      | name.com                                                  |
+| wizard.dating   | available | $23.99    | $84.99        | 118            | 43     | 6      | name.com                                                  |
 | business.dating | resell    | —         | —             | 100            | 53     | 8      | Global Domains International, Inc. DBA DomainCostClub.com |
-| only.dating     | premium   | $123.75   | $123.75       | 110            | 47     | 4      | name.com                                                  |
-| creator.dating  | available | $23.99    | $84.99        | 70             | 44     | 7      | name.com                                                  |
+| trade.dating    | premium   | $128.70   | $128.70       | 116            | 46     | 5      | namecheap                                                 |
+| health.dating   | available | $86.98    | —             | 92             | 43     | 6      | namecheap                                                 |
 | net.dating      | resell    | —         | —             | 76             | 53     | 3      | Porkbun LLC                                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,349-row public sample | 9,347 live domains                               |
+| 9,350-row public sample | 9,349 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DATING One-Word Domains*. Version 2026-04-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DATING One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
