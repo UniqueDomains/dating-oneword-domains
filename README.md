@@ -67,7 +67,7 @@ print(df.head())
 | zero.dating     | available | $23.99    | $84.99        | 112            | 53     | 4      | name.com                                                  |
 | sweet.dating    | resell    | —         | —             | 72             | 99     | 5      | Porkbun LLC                                               |
 | power.dating    | premium   | $128.70   | $128.70       | 98             | 62     | 5      | namecheap                                                 |
-| design.dating   | available | $23.99    | $84.99        | 108            | 50     | 6      | name.com                                                  |
+| design.dating   | available | $23.99    | $84.99        | 108            | 49     | 6      | name.com                                                  |
 | easy.dating     | resell    | —         | —             | 128            | 68     | 4      | NameCheap, Inc.                                           |
 | data.dating     | premium   | $1,040    | $1,040        | 70             | 56     | 4      | namecheap                                                 |
 | genius.dating   | available | $23.99    | $84.99        | 98             | 45     | 6      | name.com                                                  |
@@ -76,7 +76,7 @@ print(df.head())
 | creator.dating  | available | $23.99    | $84.99        | 70             | 45     | 7      | name.com                                                  |
 | good.dating     | resell    | —         | —             | 82             | 55     | 4      | GoDaddy.com, LLC                                          |
 | air.dating      | premium   | $128.70   | $128.70       | 84             | 49     | 3      | namecheap                                                 |
-| forge.dating    | available | $23.99    | $84.99        | 62             | 45     | 5      | name.com                                                  |
+| forge.dating    | available | $23.99    | $84.99        | 62             | 44     | 5      | name.com                                                  |
 | local.dating    | resell    | —         | —             | 102            | 54     | 5      | GoDaddy.com, LLC                                          |
 | security.dating | premium   | $128.70   | $128.70       | 70             | 49     | 8      | namecheap                                                 |
 | wizard.dating   | available | $23.99    | $84.99        | 118            | 43     | 6      | name.com                                                  |
