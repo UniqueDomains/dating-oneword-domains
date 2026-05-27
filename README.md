@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .dating one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,303 domains · **Median ask:** $31.48 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/dating`  
 **Best for:** founders, investors, studios
 
@@ -66,7 +66,7 @@ print(df.head())
 | -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
 | shortcuts.dating     | available | $23.99    | —             | 48             | 41     | 10     | name.com    |
 | girls.dating         | resell    | —         | —             | 83             | 23     | 5      | Porkbun LLC |
-| partners.dating      | premium   | $250      | —             | 61             | 32     | 8      | name.com    |
+| partners.dating      | premium   | $250      | —             | 61             | 31     | 8      | name.com    |
 | Tools.dating         | available | $86.98    | —             | 56             | 40     | 5      | namecheap   |
 | hookup.dating        | resell    | —         | —             | 76             | 16     | 7      | Dynadot Inc |
 | tips.dating          | premium   | $82.50    | —             | 80             | 26     | 4      | name.com    |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DATING One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DATING One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
