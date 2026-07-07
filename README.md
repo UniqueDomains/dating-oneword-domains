@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .dating one-word domains fr
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,303 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,303 domains · **Median ask:** $31.48 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,303 domains · **Median ask:** $30.41 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/dating`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/dating`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .DATING one-word domai
 
 ### Files
 
-- `dating.csv` — public CSV extract (1,000 rows)
-- `dating.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `dating.csv`, public CSV extract (1,000 rows)
+- `dating.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
-| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
-| shortcuts.dating     | available | $23.99    | —             | 48             | 41     | 10     | name.com    |
-| girls.dating         | resell    | —         | —             | 83             | 23     | 5      | Porkbun LLC |
-| partners.dating      | premium   | $250      | —             | 61             | 31     | 8      | name.com    |
-| Tools.dating         | available | $86.98    | —             | 56             | 40     | 5      | namecheap   |
-| hookup.dating        | resell    | —         | —             | 76             | 16     | 7      | Dynadot Inc |
-| tips.dating          | premium   | $82.50    | —             | 80             | 26     | 4      | name.com    |
-| justin.dating        | available | $23.99    | —             | 58             | 38     | 7      | name.com    |
-| geeks.dating         | premium   | $82.50    | —             | 54             | 21     | 5      | name.com    |
-| stories.dating       | available | $23.99    | —             | 58             | 36     | 7      | name.com    |
-| Americans.dating     | premium   | $138.60   | $138.60       | 56             | 10     | 9      | namecheap   |
-| tickets.dating       | available | $23.99    | —             | 64             | 34     | 7      | name.com    |
-| VirginiaBeach.dating | premium   | $138.60   | $138.60       | 58             | 9      | 14     | namecheap   |
-| Cats.dating          | available | $86.98    | —             | 59             | 33     | 4      | namecheap   |
-| HoChiMinhCity.dating | premium   | $118.80   | $118.80       | 64             | 7      | 16     | namesilo    |
-| William.dating       | available | $86.98    | —             | 74             | 31     | 7      | namecheap   |
-| maps.dating          | available | $23.99    | —             | 56             | 31     | 4      | name.com    |
-| rewards.dating       | available | $23.99    | —             | 62             | 30     | 7      | name.com    |
-| quotes.dating        | available | $23.99    | —             | 58             | 29     | 6      | name.com    |
-| blocks.dating        | available | $23.99    | —             | 53             | 29     | 6      | name.com    |
-| gems.dating          | available | $23.99    | —             | 70             | 28     | 4      | name.com    |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| bob.dating   | available | $23.99    | —             | high           | medium | 3      | name.com         |
+| job.dating   | resell    | —         | —             | high           | low    | 3      | Porkbun LLC      |
+| dad.dating   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| egg.dating   | available | $23.99    | —             | high           | low    | 3      | name.com         |
+| sugar.dating | resell    | —         | —             | high           | low    | 5      | Dynadot Inc      |
+| lol.dating   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| ham.dating   | available | $23.99    | —             | medium         | low    | 3      | name.com         |
+| urban.dating | resell    | —         | —             | medium         | low    | 5      | GoDaddy.com, LLC |
+| old.dating   | premium   | $123.75   | —             | high           | low    | 3      | name.com         |
+| map.dating   | available | $23.99    | —             | high           | medium | 3      | name.com         |
+| usa.dating   | premium   | $854      | $854          | high           | medium | 3      | namesilo         |
+| mum.dating   | available | $23.99    | —             | high           | low    | 3      | name.com         |
+| cafe.dating  | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo         |
+| sit.dating   | available | $23.99    | —             | high           | low    | 3      | name.com         |
+| food.dating  | premium   | $123.75   | $123.75       | high           | medium | 4      | name.com         |
+| suv.dating   | available | $23.99    | —             | high           | low    | 3      | name.com         |
+| huge.dating  | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo         |
+| tax.dating   | available | $23.99    | —             | high           | medium | 3      | name.com         |
+| coast.dating | premium   | $242      | $242          | high           | low    | 5      | namesilo         |
+| tow.dating   | available | $23.99    | —             | medium         | low    | 3      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is made up of one-word domains on the .dating extension. The names range from direct category terms such as friendship.dating to broader words like comfy.dating, omen.dating, and address.dating. That mix matters. Some names are literal and easy to interpret, while others are more open-ended and depend on brand positioning. With 12,302 domains in the set and a median ask of 31.48, the key comparison points are semantic fit, memorability, spelling clarity, and whether the word creates the right level of trust for a dating-focused use case. When comparing these domains, weigh purchase price against likely renewal cost tolerance and avoid terms that feel awkward, ambiguous, or potentially sensitive.
+This selection covers one-word .dating domain names across a wide range of styles — from direct action phrases like getmoving.dating and getup.dating to lifestyle and food-inspired names like coffeecake.dating and flaxseed.dating. With 12,303 domains in this set and a median asking price near $30, buyers can compare short, brandable options against pricing and renewal costs before committing. Whether the goal is a quick founder shortlist or a broader investor scan for TLD coverage, this dating-focused list offers enough variety to narrow choices by tone, length, and cost.
 
-- Prefer words that read naturally with the .dating extension
-- Literal terms aid clarity; broader words can feel more brandable
-- Check spelling and tone before paying for a low ask
-- Avoid words that may create trust or sensitivity concerns
+- 12,303 one-word .dating domain names in this set
+- Median asking price near $30 across the list
+- Mix of action, lifestyle, and food-themed names
+- Compare pricing and renewal before choosing a domain
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DATING One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DATING One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
