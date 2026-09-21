@@ -1,10 +1,10 @@
-# Available .DATING One-Word Domains (27,025)
+# Available .DATING One-Word Domains (28,575)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C025%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-28%2C575%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .dating one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **27,025 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **28,575 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 27,025 domains · **Median ask:** $20.25 · **High-demand under $2,500:** 2
+**Public extract:** 1,000 rows · **Live catalog:** 28,575 domains · **Median ask:** $20.01 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-20
+**Last updated:** 2026-09-21
 **Canonical page:** `https://unique.domains/domains/tld/dating`
 **Best for:** founders, investors, studios
 
@@ -64,14 +64,15 @@ print(df.head())
 
 | domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| soft.dating  | available | $23.99    | $84.99        | high           | low    | 4      | name.com         |
+| brief.dating | available | $23.99    | $84.99        | high           | low    | 5      | name.com         |
 | ass.dating   | available | $12.98    | $86.98        | low            | low    | 3      | namecheap        |
-| job.dating   | resell    | —         | —             | high           | low    | 3      | Porkbun LLC      |
+| sugar.dating | resell    | —         | —             | high           | low    | 5      | Dynadot Inc      |
 | dad.dating   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
 | bob.dating   | available | $23.99    | —             | high           | medium | 3      | name.com         |
-| sugar.dating | resell    | —         | —             | high           | low    | 5      | Dynadot Inc      |
+| urban.dating | resell    | —         | —             | medium         | low    | 5      | GoDaddy.com, LLC |
 | lol.dating   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
 | egg.dating   | available | $23.99    | —             | high           | low    | 3      | name.com         |
-| urban.dating | resell    | —         | —             | medium         | low    | 5      | GoDaddy.com, LLC |
 | old.dating   | premium   | $123.75   | —             | high           | low    | 3      | name.com         |
 | ham.dating   | available | $23.99    | —             | medium         | low    | 3      | name.com         |
 | usa.dating   | premium   | $854      | $854          | high           | medium | 3      | namesilo         |
@@ -83,7 +84,6 @@ print(df.head())
 | huge.dating  | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo         |
 | suv.dating   | available | $23.99    | —             | high           | low    | 3      | name.com         |
 | coast.dating | premium   | $242      | $242          | high           | low    | 5      | namesilo         |
-| tax.dating   | available | $23.99    | —             | high           | medium | 3      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 27,025 live domains                        |
+| 1,000-row public sample | 28,575 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DATING One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DATING One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
