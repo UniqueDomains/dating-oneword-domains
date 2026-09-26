@@ -1,10 +1,10 @@
-# Available .DATING One-Word Domains (32,273)
+# Available .DATING One-Word Domains (22,586)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C273%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C586%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .dating one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **32,273 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **22,586 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 32,273 domains · **Median ask:** $19.74 · **High-demand under $2,500:** 2
+**Public extract:** 1,000 rows · **Live catalog:** 22,586 domains · **Median ask:** $20.85 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-26
 **Canonical page:** `https://unique.domains/domains/tld/dating`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| ash.dating    | available | $23.99    | —             | high           | low    | 3      | name.com         |
-| now.dating    | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC     |
-| btw.dating    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
-| ass.dating    | available | $12.98    | $86.98        | high           | low    | 3      | namecheap        |
-| sugar.dating  | resell    | —         | —             | high           | low    | 5      | Dynadot Inc      |
-| dad.dating    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
-| axe.dating    | available | $23.99    | —             | high           | low    | 3      | name.com         |
-| urban.dating  | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
-| god.dating    | premium   | $242      | $242          | high           | medium | 3      | namesilo         |
-| cap.dating    | available | $23.99    | —             | high           | low    | 3      | name.com         |
-| hawaii.dating | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC |
-| how.dating    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
-| clv.dating    | available | $12.98    | $86.98        | high           | low    | 3      | namecheap        |
-| hub.dating    | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo         |
-| des.dating    | available | $23.99    | —             | high           | low    | 3      | name.com         |
-| llp.dating    | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
-| dji.dating    | available | $23.99    | —             | high           | low    | 3      | name.com         |
-| lol.dating    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
-| egg.dating    | available | $23.99    | —             | high           | low    | 3      | name.com         |
-| mom.dating    | premium   | $242      | $242          | high           | low    | 3      | namesilo         |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| add.dating       | available | $23.99    | —             | high           | low    | 3      | name.com         |
+| token.dating     | resell    | $23.99    | —             | high           | medium | 5      | Dynadot Inc      |
+| law.dating       | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap        |
+| apr.dating       | available | $23.99    | $84.99        | high           | low    | 3      | name.com         |
+| executive.dating | resell    | —         | —             | high           | low    | 9      | GoDaddy.com, LLC |
+| like.dating      | premium   | $118.80   | $118.80       | high           | medium | 4      | namesilo         |
+| apt.dating       | available | $20.99    | $64.99        | high           | low    | 3      | namesilo         |
+| marijuana.dating | resell    | —         | —             | high           | low    | 9      | GoDaddy.com, LLC |
+| male.dating      | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo         |
+| aug.dating       | available | $12.98    | $86.98        | high           | low    | 3      | namecheap        |
+| webs.dating      | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo         |
+| bja.dating       | available | $20.99    | $64.99        | medium         | low    | 3      | namesilo         |
+| homes.dating     | premium   | $242      | $242          | high           | low    | 5      | namesilo         |
+| ely.dating       | available | $20.99    | $64.99        | high           | low    | 3      | namesilo         |
+| poker.dating     | premium   | $78.54    | $78.54        | high           | medium | 5      | namesilo         |
+| eye.dating       | available | $20.99    | $64.99        | high           | low    | 3      | namesilo         |
+| stars.dating     | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo         |
+| fcc.dating       | available | $20.99    | $64.99        | high           | low    | 3      | namesilo         |
+| vegas.dating     | premium   | $128.70   | $128.70       | high           | low    | 5      | namecheap        |
+| gin.dating       | available | $12.98    | $86.98        | high           | low    | 3      | namecheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 32,273 live domains                        |
+| 1,000-row public sample | 22,586 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 2 high-demand names under $2,500           |
+| Basic exported fields   | 3 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DATING One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DATING One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
